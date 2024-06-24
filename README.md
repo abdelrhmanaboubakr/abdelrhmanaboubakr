@@ -12,9 +12,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with c, c++, python and NodeJS, or anything related to software.
+- 🏢 I'm Embedded Software Engineer
+- 👨‍💻  I'm constantly learning and exploring new technologies to improve my skills.
+- 💬 Ask me about my experience with c, c++, python and Embedded systems, or anything related to software.
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 
 
@@ -25,8 +25,8 @@
 
 
 ### 🛠 &nbsp;Tech Stack
-![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
-![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
+![c](https://img.shields.io/badge/-c-05122A?style=flat&logo=c&logoColor=339933)&nbsp;
+![cpp](https://img.shields.io/badge/-cpp-05122A?style=flat&logo=cpp&logoColor=339933)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
